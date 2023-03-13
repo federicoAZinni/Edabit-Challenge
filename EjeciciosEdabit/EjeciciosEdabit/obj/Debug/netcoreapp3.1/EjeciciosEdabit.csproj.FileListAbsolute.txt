@@ -1,0 +1,14 @@
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\bin\Debug\netcoreapp3.1\EjeciciosEdabit.exe
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\bin\Debug\netcoreapp3.1\EjeciciosEdabit.deps.json
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\bin\Debug\netcoreapp3.1\EjeciciosEdabit.runtimeconfig.json
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\bin\Debug\netcoreapp3.1\EjeciciosEdabit.runtimeconfig.dev.json
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\bin\Debug\netcoreapp3.1\EjeciciosEdabit.dll
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\bin\Debug\netcoreapp3.1\EjeciciosEdabit.pdb
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.AssemblyInfoInputs.cache
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.AssemblyInfo.cs
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.csproj.CoreCompileInputs.cache
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.dll
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.pdb
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.genruntimeconfig.cache
+C:\Users\Feche\source\repos\EjeciciosEdabit\EjeciciosEdabit\obj\Debug\netcoreapp3.1\EjeciciosEdabit.csproj.AssemblyReference.cache
